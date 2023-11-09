@@ -1,0 +1,22 @@
+.ejemplo{
+    height: 125px;
+    border-bottom: 1px solid black;
+    margin-top: 1px;
+}
+.borde{
+    border-bottom: 1px solid black;
+}
+h1 {
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    padding: 30px 40px;
+}
+section {
+    padding: 0px 10px;
+}
+.espacio{
+    margin-left: 20px;
+    margin-top: 20px
+
+}
